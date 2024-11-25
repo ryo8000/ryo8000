@@ -28,4 +28,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo8000)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ryo8000/count.svg?"/>
+</div>
+
 ![](https://komarev.com/ghpvc/?username=ryo8000)
