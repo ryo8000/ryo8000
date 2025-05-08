@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ryo H.
+### Hi there 👋 I'm Ryo.
 
 <!--
 **ryo8000/ryo8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
