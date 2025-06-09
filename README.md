@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,vue,nuxtjs,java,spring,cs,py,nginx,postgres,mysql,graphql,docker,kubernetes,terraform,aws,git,github,vscode,visualstudio,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,vue,nuxtjs,java,spring,cs,py,nginx,postgres,mysql,graphql,docker,kubernetes,terraform,aws,linux,git,github,vscode,visualstudio,eclipse)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo8000)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo8000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/ryo8000/count.svg?"/>
