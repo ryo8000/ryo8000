@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo8000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo8000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=ryo8000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy-fork-two)
 
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/ryo8000/count.svg?"/>
