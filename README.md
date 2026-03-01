@@ -33,6 +33,12 @@ I'm a backend-focused engineer who enjoys building reliable and practical system
 
 I like working on practical projects that make development more efficient and systems more robust.
 
+## 🌱 Currently exploring
+
+- Better API design patterns
+- Architecture for scalable backend systems
+- Improving developer experience
+
 ## 🛠️ Tech
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,vue,nuxtjs,java,spring,cs,py,nginx,postgres,mysql,graphql,docker,kubernetes,terraform,aws,linux,git,github,vscode,visualstudio,eclipse)](https://skillicons.dev)
