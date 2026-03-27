@@ -25,7 +25,7 @@ I'm a backend-focused engineer who enjoys building reliable and practical system
 
 ## 🌟 What I Do
 
-- Design and implement **backend APIs** using **Node.js / Java**
+- Design and build backend **applications** using **Node.js / Java**
 - Design **containerized backend services** with **Docker**
 - Work on **Kubernetes-based systems** and scalable backend patterns
 - Develop **developer utilities** such as VSCode extensions and testing tools
